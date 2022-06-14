@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VladK Auth app", "VladK Auth app\VladK Auth app.csproj", "{23454A02-AF9B-47EC-94DE-3078F87B4E40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23454A02-AF9B-47EC-94DE-3078F87B4E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23454A02-AF9B-47EC-94DE-3078F87B4E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23454A02-AF9B-47EC-94DE-3078F87B4E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23454A02-AF9B-47EC-94DE-3078F87B4E40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84713B45-6227-4FA3-B95F-4341AB24756A}
+	EndGlobalSection
+EndGlobal
