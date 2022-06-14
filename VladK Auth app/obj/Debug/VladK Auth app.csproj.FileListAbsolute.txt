@@ -21,3 +21,36 @@ C:\Users\User\source\repos\VladK Auth app\VladK Auth app\obj\Debug\VladK Auth ap
 C:\Users\User\source\repos\VladK Auth app\VladK Auth app\obj\Debug\VladK Auth app.csproj.CopyComplete
 C:\Users\User\source\repos\VladK Auth app\VladK Auth app\obj\Debug\VladK Auth app.exe
 C:\Users\User\source\repos\VladK Auth app\VladK Auth app\obj\Debug\VladK Auth app.pdb
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\VladK Auth app.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\VladK Auth app.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\ForAdmin.g.cs
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\ForUser.g.cs
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\Page1.g.cs
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\Voity.g.cs
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\Zaregistrirovatca.g.cs
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\App.g.cs
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\VladK Auth app_Content.g.cs
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\VladK Auth app_MarkupCompile.cache
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\VladK Auth app_MarkupCompile.lref
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\VladK Auth app.exe
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\VladK Auth app.pdb
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\bin\Debug\VladK Auth app.exe.config
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\bin\Debug\VladK Auth app.exe
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\bin\Debug\VladK Auth app.pdb
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\ForAdmin.baml
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\ForUser.baml
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\Page1.baml
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\Voity.baml
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\Zaregistrirovatca.baml
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\VladK Auth app.g.resources
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\VladK_Auth_app.Properties.Resources.resources
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\VladK Auth app.csproj.GenerateResource.cache
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\VladK Auth app.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VladK-Auth-app\VladK Auth app\obj\Debug\VladK Auth app.csproj.CopyComplete

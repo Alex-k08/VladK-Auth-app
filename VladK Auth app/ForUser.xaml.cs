@@ -16,16 +16,16 @@ using System.Windows.Shapes;
 namespace VladK_Auth_app
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для ForUser.xaml
     /// </summary>
-    public partial class MainWindow : NavigationWindow
+    public partial class ForUser : Page
     {
-        public MainWindow()
+        private Users user;
+        public ForUser(Users user)
         {
+            this.user = user;
             InitializeComponent();
-            NavigationService.Navigate(new Page1());
-            this.ShowsNavigationUI = false;
-
+            dannie.Content = $"Login: {user.Login} Password: {user.Password} Type: {user.UserType.name}";
         }
     }
 }

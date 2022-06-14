@@ -16,16 +16,23 @@ using System.Windows.Shapes;
 namespace VladK_Auth_app
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Page1.xaml
     /// </summary>
-    public partial class MainWindow : NavigationWindow
+    public partial class Page1 : Page
     {
-        public MainWindow()
+        public Page1()
         {
             InitializeComponent();
-            NavigationService.Navigate(new Page1());
-            this.ShowsNavigationUI = false;
+        }
 
+        private void Войти_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Voity());
+        }
+
+        private void Зарегистрироваться_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Zaregistrirovatca());
         }
     }
 }
